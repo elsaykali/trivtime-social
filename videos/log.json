@@ -23,5 +23,19 @@
    "close:How many white keys are on a standard piano?",
    "close:How tall is the Great Pyramid of Giza today, in metres?"
   ]
+ },
+ {
+  "day": "2026-11-27",
+  "theme": "mixed",
+  "keys": [
+   "picture:https://cadmelavjjqvfdprvngo.supabase.co/storage/v1/object/public/question-images/daily/landmarks/gateway-of-india.jpg",
+   "picture:https://cadmelavjjqvfdprvngo.supabase.co/storage/v1/object/public/question-images/questions/en/fa3c69e1-bdd6-4678-b598-592586d25255.png",
+   "close:How many dimples does a standard golf ball have, roughly?",
+   "skeptic:Glass is a slow-flowing liquid, which is why old windows are thicker at the bottom.",
+   "order:The Ming dynasty begins in China",
+   "order:Pride and Prejudice is published",
+   "order:The first text message is sent",
+   "order:China hands Hong Kong Island to Britain"
+  ]
  }
 ]
