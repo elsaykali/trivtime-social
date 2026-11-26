@@ -12,5 +12,16 @@
    "order:Saint Petersburg is founded",
    "picture:https://cadmelavjjqvfdprvngo.supabase.co/storage/v1/object/public/question-images/daily/cities/hallstatt.jpg"
   ]
+ },
+ {
+  "day": "2026-11-26",
+  "theme": "close",
+  "keys": [
+   "close:How tall is Mount Kilimanjaro, in metres?",
+   "close:How long is a marathon, in metres?",
+   "close:How many grams does a standard tennis ball weigh, roughly?",
+   "close:How many white keys are on a standard piano?",
+   "close:How tall is the Great Pyramid of Giza today, in metres?"
+  ]
  }
 ]
