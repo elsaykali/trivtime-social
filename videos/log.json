@@ -37,5 +37,16 @@
    "order:The first text message is sent",
    "order:China hands Hong Kong Island to Britain"
   ]
+ },
+ {
+  "day": "2026-11-26",
+  "theme": "pictures",
+  "keys": [
+   "picture:https://cadmelavjjqvfdprvngo.supabase.co/storage/v1/object/public/question-images/daily/people/ariana-grande.jpg",
+   "picture:https://cadmelavjjqvfdprvngo.supabase.co/storage/v1/object/public/question-images/daily/animals/armadillo.jpg",
+   "picture:https://cadmelavjjqvfdprvngo.supabase.co/storage/v1/object/public/question-images/daily/animals/mandrill.jpg",
+   "picture:https://cadmelavjjqvfdprvngo.supabase.co/storage/v1/object/public/question-images/daily/logos/volkswagen.png",
+   "picture:https://cadmelavjjqvfdprvngo.supabase.co/storage/v1/object/public/question-images/daily/dishes/takoyaki.jpg"
+  ]
  }
 ]
