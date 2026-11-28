@@ -48,5 +48,16 @@
    "picture:https://cadmelavjjqvfdprvngo.supabase.co/storage/v1/object/public/question-images/daily/logos/volkswagen.png",
    "picture:https://cadmelavjjqvfdprvngo.supabase.co/storage/v1/object/public/question-images/daily/dishes/takoyaki.jpg"
   ]
+ },
+ {
+  "day": "2026-11-28",
+  "theme": "pictures",
+  "keys": [
+   "picture:https://cadmelavjjqvfdprvngo.supabase.co/storage/v1/object/public/question-images/daily/paintings/hunters-in-the-snow.jpg",
+   "picture:https://cadmelavjjqvfdprvngo.supabase.co/storage/v1/object/public/question-images/daily/dishes/crme-brle.jpg",
+   "picture:https://cadmelavjjqvfdprvngo.supabase.co/storage/v1/object/public/question-images/daily/logos/lays.png",
+   "picture:https://cadmelavjjqvfdprvngo.supabase.co/storage/v1/object/public/question-images/daily/dishes/pierogi.jpg",
+   "picture:https://cadmelavjjqvfdprvngo.supabase.co/storage/v1/object/public/question-images/daily/logos/opera.png"
+  ]
  }
 ]
